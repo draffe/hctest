@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PruebaHS\\purebahcpartnes\\HCTest\\HCTest.csproj",
+      "projectUniqueName": "C:\\repo\\hctest\\HCTest.csproj",
       "projectName": "HCTest",
-      "projectPath": "C:\\PruebaHS\\purebahcpartnes\\HCTest\\HCTest.csproj",
+      "projectPath": "C:\\repo\\hctest\\HCTest.csproj",
       "packagesPath": "C:\\Users\\dixon\\.nuget\\packages\\",
-      "outputPath": "C:\\PruebaHS\\purebahcpartnes\\HCTest\\obj\\",
+      "outputPath": "C:\\repo\\hctest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
